@@ -185,11 +185,8 @@ CI/CD Pipeline (Jenkins) → Automated Testing → Production
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jtnstack&show_icons=true&theme=tokyonight&count_private=true&hide=contribs&rank_icon=github)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jtnstack&theme=tokyonight&border_radius=10&background=0D1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jtnstack&layout=compact&theme=tokyonight&langs_count=8)
 
 </div>
 
